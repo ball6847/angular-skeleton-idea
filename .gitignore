@@ -1,0 +1,4 @@
+.compiled/coffee/*
+!.compiled/coffee/.gitkeep
+node_modules
+bower_components
